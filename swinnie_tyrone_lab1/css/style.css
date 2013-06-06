@@ -1,0 +1,31 @@
+<style type="text/css">
+
+p {
+	color: red;
+	font: 30px arial;
+}
+
+ul li {
+	color: green;
+	
+}
+ol li{
+	color: purple;
+}
+h1{
+	color: silver;
+	font: 40px helvetica;
+}
+
+h2 {
+	font:20px helvetica;
+	color: pink;
+}
+h3{
+	font: 25px arial;
+	color: green;
+}
+
+
+
+</style>

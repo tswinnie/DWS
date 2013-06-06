@@ -1,0 +1,48 @@
+
+
+#pagraphs {
+	color: red;
+	font: 30px arial;
+}
+
+ul li {
+	color: green;
+	
+}
+ol li{
+	color: purple;
+}
+h1{
+	color: silver;
+	font: 40px helvetica;
+}
+
+h2 {
+	font:20px helvetica;
+	color: pink;
+}
+h3{
+	font: 25px arial;
+	color: green;
+}
+
+
+h1, h2, h3 {
+	font: 20px helvetica;
+	color: blue;
+}
+
+.body {
+	font: 50px arial;
+	color: green;
+}
+a:link  {
+	color:silver;
+}
+a:hover  {
+	color:purple;
+}
+
+a:active  {
+	color: green;
+}
