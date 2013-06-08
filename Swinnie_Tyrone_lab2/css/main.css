@@ -1,0 +1,38 @@
+/* This is all the code that will be in the body */
+
+body {
+	color:rgba(122,224,27,0.5);
+	text-decoration: underline;
+	text-align:center;
+	text-indent:10px;
+	word-spacing: 2px;
+	background-color: #236477;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font: italic small-caps bold 20px/30px "helvetica neue" arial, helvetica, sans-serif;
+	
+	
+	
+}
+
+/* This is the code just for the navigation tags */
+.navigation {
+	
+	display: inline;
+	padding-right: 50px;
+	font-size: 40px;
+}
+
+img {
+	opacity: 0.5;
+	vertical-align:text-top;
+}
+
+ol {
+	list-style-type:none;
+	font-variant: small-caps;
+}
+
+h3 {
+	vertical-align: 2px;
+}
