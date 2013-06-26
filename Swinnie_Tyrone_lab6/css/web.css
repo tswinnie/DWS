@@ -1,0 +1,124 @@
+html{
+	position: relative;
+	background: white;
+	
+}
+body{
+    margin: 0 auto;
+    margin-top: 0;
+    padding-top: 0;
+    width: 800px;
+    font: 100%/1.7 Veranda, sans-serif;
+    background: url("../images/bg_repeat.png") repeat-x #7099dc; 
+}
+#wrapper{
+	background: white;
+	width: 760px;
+	height: 1000px;
+	margin: 0 auto;
+	position: relative;
+	overflow: scroll;	
+	
+}
+/*---------- Head Section ----------*/
+#header{
+	color: white;
+	font: oblique normal bold 22px Verdana, sans-serif;
+	padding: 18px 0 0 20px;
+	margin-top: 0;
+	background-image: url("../img/bg_header.jpg");
+	width: 740px;
+	height :260px;
+	position: absolute;
+	top: 0;
+}
+/*---------- Nav Section ----------*/
+#nav{
+	width: 215px;
+	margin: 0;
+	border-top: 3px solid #f19f6b;
+	padding: 0;
+	list-style-type: none;
+}
+#nav li{
+	border-bottom: 1px solid grey;
+	padding: 5px 0px;
+	text-indent: 30px;
+}
+#nav li a{
+	text-decoration: none;
+	font: oblique normal 14px Arial, sans-serif;
+	color: black;
+}
+#nav #active{
+	color: #4a7cb6;
+}
+#nav li a:hover{
+	color: #4a7cb6;
+}
+/*---------- Left Side ----------*/
+h1{
+	margin: 7px 0 3px 10px;
+	background: url("../img/bg_intellectual_business_solutions.png") no-repeat;
+	width: 194px;
+	height: 50px;
+	text-indent: -1000000px;
+}
+#global_shadow{
+	background: url("../img/global_shadow.png");
+	width: 225px;
+	height: 550px;
+	position: absolute;
+	z-index: 1;
+	top: 205px;
+	left: 15px;
+}
+#global{
+	border-top: 9px solid #016a8d;
+	width: 215px;
+	height: 600px;
+	background: white;
+	margin-left: 5px;
+}
+#quote{
+	background: url("../img/quote_left.gif") no-repeat;
+	margin: 90px 0 40px 10px;
+}
+#quote p{
+	font: italic normal bold 12px "Trebuchet MS", sans-serif;
+	color: #cccccc;
+	width: 167px;
+	padding: 10px 0 0 25px;
+	background: url("../img/quote_right.gif") no-repeat right bottom;
+}
+#phone{
+	font: 12px Arial, sans-serif;
+	text-align: center;
+}
+address{
+	font: italic 12px Arial, sans-serif;
+	text-align: center;
+}
+/*---------- Right Side ----------*/
+#content{
+	font: 12px Verdana, sans-serif;
+	background: url("../img/sprocket.gif") no-repeat;
+	background-position: right top;
+	width: 490px;
+	padding-right: 15px;
+	position: absolute;
+	right: 0;
+	top: 278px;
+}
+#content h2{
+	font: italic normal bold 22px Verdana, sans-serif;
+	color: #4a7cb6;
+	margin: 15px 0 5px 0;
+}
+.content_img {
+	padding: 40px;
+	text-align: center;
+}
+
+
+
