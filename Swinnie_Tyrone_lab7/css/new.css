@@ -1,0 +1,188 @@
+fieldset {
+	width: 300px;
+	height: 300px;
+	padding: 10px 0;
+	border-top: 1px dotted green;
+	border-bottom: 1px dotted green;
+	border-right: 1px dotted green;
+	border-left: 1px dotted green;
+	background-color: red;
+	text-align: center;
+}
+
+
+fieldset input:hover {
+	background-color: pink;
+}
+
+fieldset input:active, input:focus {
+	background-color: green;
+}
+
+label {
+	
+	font-size: 18px;
+	color: white;
+	font-family: Helvetica, Times, Georgia, serif;
+	font-weight: bold;
+	display: block;
+	padding: 5px 0;
+	display: block;
+}
+
+p  {
+	color: white;
+	text-align:left;
+}
+	
+	
+	
+	
+	
+.newlabs{
+	float: left;
+	text-align: center;
+	
+}
+
+#feedback textarea:hover {
+	background-color: orange;
+	
+}
+
+#feedback textarea:active, textarea:focus{
+	background-color: purple;
+}
+
+
+.controls input {
+	width: 150px;
+	margin-top: 10px;
+	float: right;
+	margin-right: 35px;
+	
+}
+
+
+select {
+	
+	background-color: purple;
+	
+	
+}
+
+#submit {
+	background-color: green;
+	padding: 2px 15px;
+	margin-top: 10px;
+}
+
+#container-inner {
+	width: 400px;
+	margin: 0 auto;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;
+	
+}
+
+ #box1 {
+
+	 width: 300px;
+	 padding: 20px;
+	 margin-left: 5px;
+}
+
+#section-dob {
+	width: 300px;
+	margin-top: 20px;
+	margin-right: 10px;
+	
+	
+}
+  legend{
+	 
+	color: green;
+	font-size: 18px;
+	font-weight: bold;
+	clear: right;
+}
+
+
+#field-profile-link {
+	
+	margin-right: 45px;
+	
+}
+
+label {
+	color: white;
+	
+}
+
+
+fieldset {
+	
+	clear: left;
+}
+
+#box7 {
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 0;
+	background-color: green;
+	
+}
+
+ .boxz {
+	 
+width: 299px;
+height: 175px;
+float: right;
+clear: right;
+margin: 115px 0 0px 0px;
+border-style: none;
+}
+
+#section-dob {
+	margin: 0 auto;
+	background-color: pink;
+	float: left;
+	width: 300px;
+	padding: 0 0;
+	
+	
+
+
+}
+
+div label  {
+	
+	clear: left;
+	margin: 0 0;
+}
+
+.con .controls {
+	float: left;
+	padding: 5px;
+	margin-bottom: 200px;
+}
+
+h1 {
+	text-align: center;
+	margin-right: 90px;
+	color: pink;
+	font-family: Helvetica, Times, Georgia;
+	
+}
+
+ .note {
+	
+	padding-top: 20px;
+	margin-top: 500px;
+}
+
+
+
